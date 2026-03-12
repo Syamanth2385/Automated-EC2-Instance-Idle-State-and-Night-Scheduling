@@ -1,0 +1,1 @@
+# Automated-EC2-Instance-Idle-State-and-Night-Scheduling
